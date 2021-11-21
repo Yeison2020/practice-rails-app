@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # practice-rails-app
+# testing-rails-app-2
